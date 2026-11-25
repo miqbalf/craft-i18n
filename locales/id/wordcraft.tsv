@@ -2489,3 +2489,11 @@ template	Letter	Surat
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Afrika Selatan
+	Reconnecting to the other editors. Your changes are kept and sent once the connection is back.	Menyambung kembali ke editor lain. Perubahan Anda tetap tersimpan dan dikirim begitu koneksi pulih.
+	Reconnecting to the other editors. You can edit again in a moment.	Menyambung kembali ke editor lain. Anda dapat menyunting lagi sebentar lagi.
+	Too many changes are waiting to be sent to the other editors. A copy with them is ready to save; editing resumes once they are sent.	Terlalu banyak perubahan menunggu untuk dikirim ke editor lain. Salinan berisi perubahan itu siap disimpan; penyuntingan berlanjut setelah semuanya terkirim.
+	Some of your changes could not be shared with the other editors. A copy with them is ready to save.	Sebagian perubahan Anda tidak dapat dibagikan dengan editor lain. Salinan berisi perubahan itu siap disimpan.
+	Save a copy of your unshared changes	Simpan salinan perubahan Anda yang belum dibagikan
+	Downloaded a copy with your unshared changes as {name}.	Salinan berisi perubahan Anda yang belum dibagikan diunduh sebagai {name}.
+	Couldn't save the copy with your unshared changes: {error}. Try again.	Salinan berisi perubahan Anda yang belum dibagikan tidak dapat disimpan: {error}. Coba lagi.
+	this window cannot download files	jendela ini tidak dapat mengunduh berkas
