@@ -2506,4 +2506,4 @@ template	Letter	Surat
 	The selection has a picture or other object, which can't be removed while others are editing, so nothing was pasted.	Seleksi berisi gambar atau objek lain yang tidak dapat dihapus saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
 	This paste can't be shared while others are editing, so nothing was pasted.	Hasil tempel ini tidak dapat dibagikan saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
 	This paste option is off during live editing. Use Paste or Keep Text Only.	Opsi tempel ini nonaktif selama penyuntingan langsung. Gunakan Tempel atau Pertahankan Teks Saja.
-	Tracked changes are off during live editing, so nothing was pasted.	Perubahan terlacak nonaktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
+	Tracked changes are off during live editing, so nothing was pasted.	Perubahan terlacak tidak didukung selama penyuntingan langsung, jadi tidak ada yang ditempel.
