@@ -1783,6 +1783,8 @@
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bukan angka.
 	Undo Actions	Batalkan Tindakan
 	Undo History	Riwayat Pembatalan
+	Someone else has typed in what this Undo would remove, so it wasn't undone.	Orang lain sudah mengetik di bagian yang akan dihapus oleh Batalkan ini, jadi tindakan tidak dibatalkan.
+	Someone else has typed in what this Redo would remove, so it wasn't redone.	Orang lain sudah mengetik di bagian yang akan dihapus oleh Ulangi ini, jadi tindakan tidak diulangi.
 	Undo 1 Action	Batalkan 1 Tindakan
 	Undo {n} Actions	Batalkan {n} Tindakan
 	Start-up	Saat Mulai
