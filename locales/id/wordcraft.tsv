@@ -2538,3 +2538,11 @@ template	Letter	Surat
 	This paste option is off during live editing. Use Paste or Keep Text Only.	Opsi tempel ini nonaktif selama penyuntingan langsung. Gunakan Tempel atau Pertahankan Teks Saja.
 	Tracked changes are off during live editing, so nothing was pasted.	Perubahan terlacak tidak didukung selama penyuntingan langsung, jadi tidak ada yang ditempel.
 	Graphics acceleration is off in this browser, so editing may be slow.	Akselerasi grafis nonaktif di peramban ini, jadi pengeditan mungkin lambat.
+	Nothing was pasted: {items} can't be shared while others are editing.	Tidak ada yang ditempel: {items} tidak dapat dibagikan saat orang lain sedang menyunting.
+	Pasted as text: {items} can't be shared while others are editing.	Ditempel sebagai teks: {items} tidak dapat dibagikan saat orang lain sedang menyunting.
+	{list} and {last}	{list} dan {last}
+paste	pictures	gambar
+paste	tables	tabel
+paste	fields	medan
+paste	notes	catatan
+paste	some formatting	sebagian format
