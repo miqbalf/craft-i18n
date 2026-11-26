@@ -413,6 +413,34 @@
 	Print\nLayout	Tata Letak\nCetak
 	Proofing	Pemeriksaan
 	Proofing Issues	Masalah Pemeriksaan
+# Grammar check and AI writing help (Review tab, right-click menu, Proofing pane).
+	Ignore Rule	Abaikan Aturan
+	Ignore Once	Abaikan Sekali
+	Writing Help	Bantuan Menulis
+	Improve with AI	Sempurnakan dengan AI
+	Summarize Document	Ringkas Dokumen
+	Summarize\nDocument	Ringkas\nDokumen
+	Asking the AI…	Menunggu jawaban AI…
+	Proposal	Usulan
+	Insert at Cursor	Sisipkan di Kursor
+	Copied	Disalin
+	Too many requests right now. Try again in a minute.	Terlalu banyak permintaan saat ini. Coba lagi dalam satu menit.
+	The AI service is not available right now. Try again later.	Layanan AI tidak tersedia saat ini. Coba lagi nanti.
+	This text is too long for the AI service.	Teks ini terlalu panjang untuk layanan AI.
+	AI writing help is turned off on this server.	Bantuan menulis AI dinonaktifkan di server ini.
+	The AI service could not read this request.	Layanan AI tidak dapat membaca permintaan ini.
+	Only the first 200 KB of the document was summarized.	Hanya 200 KB pertama dari dokumen ini yang diringkas.
+	AI writing help is not available here.	Bantuan menulis AI tidak tersedia di sini.
+	Improve with AI is off here because this text can't be changed now.	Fitur Sempurnakan dengan AI nonaktif di sini karena teks ini tidak dapat diubah saat ini.
+	There is no text here to improve.	Tidak ada teks di sini untuk disempurnakan.
+	Improve works on plain text only; this text holds objects such as notes, comments, fields or pictures.	Fitur Sempurnakan hanya dapat digunakan pada teks biasa; teks ini berisi objek seperti catatan, komentar, medan, atau gambar.
+	Accept or reject the tracked changes in this text first.	Terima atau tolak perubahan terlacak dalam teks ini terlebih dahulu.
+	Select text within one cell or outside a table.	Pilih teks di dalam satu sel atau di luar tabel.
+	This text is too long to improve. Select less text.	Teks ini terlalu panjang untuk disempurnakan. Pilih teks yang lebih pendek.
+	The text changed while the AI was working, so nothing was replaced.	Teks berubah saat AI sedang bekerja, jadi tidak ada yang diganti.
+	The proposal changed the number of paragraphs, so nothing was replaced.	Usulan mengubah jumlah paragraf, jadi tidak ada yang diganti.
+	The document is empty.	Dokumen kosong.
+	Improve can't keep an empty line inside a paragraph. Select text without it.	Fitur Sempurnakan tidak dapat mempertahankan baris kosong di dalam paragraf. Pilih teks yang tidak berisi baris kosong.
 	Protect	Lindungi
 	Protect Document	Lindungi Dokumen
 	Quick Access Toolbar	Bilah Alat Akses Cepat
@@ -1755,6 +1783,8 @@
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bukan angka.
 	Undo Actions	Batalkan Tindakan
 	Undo History	Riwayat Pembatalan
+	Someone else has typed in what this Undo would remove, so it wasn't undone.	Tindakan tidak diurungkan karena orang lain sudah mengetik di bagian yang akan terhapus.
+	Someone else has typed in what this Redo would remove, so it wasn't redone.	Tindakan tidak diulangi karena orang lain sudah mengetik di bagian yang akan terhapus.
 	Undo 1 Action	Batalkan 1 Tindakan
 	Undo {n} Actions	Batalkan {n} Tindakan
 	Start-up	Saat Mulai
