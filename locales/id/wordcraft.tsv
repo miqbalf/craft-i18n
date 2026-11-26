@@ -2497,13 +2497,13 @@ template	Letter	Surat
 	Downloaded a copy with your unshared changes as {name}.	Salinan berisi perubahan Anda yang belum dibagikan diunduh sebagai {name}.
 	Couldn't save the copy with your unshared changes: {error}. Try again.	Salinan berisi perubahan Anda yang belum dibagikan tidak dapat disimpan: {error}. Coba lagi.
 	this window cannot download files	jendela ini tidak dapat mengunduh berkas
-	Comments are off during live editing, so nothing was pasted.	Komentar tidak aktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
+	Comments are off during live editing, so nothing was pasted.	Komentar nonaktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
 	Headers, footers, notes and text boxes can't be changed while others are editing, so nothing was pasted.	Header, footer, catatan, dan kotak teks tidak dapat diubah saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
 	Pasted as text: pictures and tables can't be shared while others are editing.	Ditempel sebagai teks: gambar dan tabel tidak dapat dibagikan saat orang lain sedang menyunting.
-	Pasted without some formatting: it can't be shared while others are editing.	Ditempel tanpa sebagian format: format itu tidak dapat dibagikan saat orang lain sedang menyunting.
+	Pasted without some formatting: it can't be shared while others are editing.	Ditempel tanpa sebagian format: format tersebut tidak dapat dibagikan saat orang lain sedang menyunting.
 	Pictures and other objects can't be cut while others are editing.	Gambar dan objek lain tidak dapat dipotong saat orang lain sedang menyunting.
-	Tables can't be changed while others are editing. Copy still works.	Tabel tidak dapat diubah saat orang lain sedang menyunting. Salin tetap berfungsi.
-	The selection has a picture or other object, which can't be removed while others are editing, so nothing was pasted.	Pilihan berisi gambar atau objek lain yang tidak dapat dihapus saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
-	This paste can't be shared while others are editing, so nothing was pasted.	Tempelan ini tidak dapat dibagikan saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
-	This paste option is off during live editing. Use Paste or Keep Text Only.	Opsi tempel ini tidak aktif selama penyuntingan langsung. Gunakan Tempel atau Pertahankan Teks Saja.
-	Tracked changes are off during live editing, so nothing was pasted.	Lacak Perubahan tidak aktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
+	Tables can't be changed while others are editing. Copy still works.	Tabel tidak dapat diubah saat orang lain sedang menyunting, tetapi masih dapat disalin.
+	The selection has a picture or other object, which can't be removed while others are editing, so nothing was pasted.	Seleksi berisi gambar atau objek lain yang tidak dapat dihapus saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
+	This paste can't be shared while others are editing, so nothing was pasted.	Hasil tempel ini tidak dapat dibagikan saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
+	This paste option is off during live editing. Use Paste or Keep Text Only.	Opsi tempel ini nonaktif selama penyuntingan langsung. Gunakan Tempel atau Pertahankan Teks Saja.
+	Tracked changes are off during live editing, so nothing was pasted.	Perubahan terlacak nonaktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
