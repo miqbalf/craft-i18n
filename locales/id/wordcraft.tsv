@@ -413,6 +413,34 @@
 	Print\nLayout	Tata Letak\nCetak
 	Proofing	Pemeriksaan
 	Proofing Issues	Masalah Pemeriksaan
+# Grammar check and AI writing help (Review tab, right-click menu, Proofing pane).
+	Ignore Rule	Abaikan Aturan
+	Ignore Once	Abaikan Sekali
+	Writing Help	Bantuan Menulis
+	Improve with AI	Sempurnakan dengan AI
+	Summarize Document	Ringkas Dokumen
+	Summarize\nDocument	Ringkas\nDokumen
+	Asking the AI…	Menunggu jawaban AI…
+	Proposal	Usulan
+	Insert at Cursor	Sisipkan di Kursor
+	Copied	Disalin
+	Too many requests right now. Try again in a minute.	Terlalu banyak permintaan saat ini. Coba lagi dalam satu menit.
+	The AI service is not available right now. Try again later.	Layanan AI tidak tersedia saat ini. Coba lagi nanti.
+	This text is too long for the AI service.	Teks ini terlalu panjang untuk layanan AI.
+	AI writing help is turned off on this server.	Bantuan menulis AI dinonaktifkan di server ini.
+	The AI service could not read this request.	Layanan AI tidak dapat membaca permintaan ini.
+	Only the first 200 KB of the document was summarized.	Hanya 200 KB pertama dari dokumen ini yang diringkas.
+	AI writing help is not available here.	Bantuan menulis AI tidak tersedia di sini.
+	Improve with AI is off here because this text can't be changed now.	Fitur Sempurnakan dengan AI nonaktif di sini karena teks ini tidak dapat diubah saat ini.
+	There is no text here to improve.	Tidak ada teks di sini untuk disempurnakan.
+	Improve works on plain text only; this text holds objects such as notes, comments, fields or pictures.	Fitur Sempurnakan hanya dapat digunakan pada teks biasa; teks ini berisi objek seperti catatan, komentar, medan, atau gambar.
+	Accept or reject the tracked changes in this text first.	Terima atau tolak perubahan terlacak dalam teks ini terlebih dahulu.
+	Select text within one cell or outside a table.	Pilih teks di dalam satu sel atau di luar tabel.
+	This text is too long to improve. Select less text.	Teks ini terlalu panjang untuk disempurnakan. Pilih teks yang lebih pendek.
+	The text changed while the AI was working, so nothing was replaced.	Teks berubah saat AI sedang bekerja, jadi tidak ada yang diganti.
+	The proposal changed the number of paragraphs, so nothing was replaced.	Usulan mengubah jumlah paragraf, jadi tidak ada yang diganti.
+	The document is empty.	Dokumen kosong.
+	Improve can't keep an empty line inside a paragraph. Select text without it.	Fitur Sempurnakan tidak dapat mempertahankan baris kosong di dalam paragraf. Pilih teks yang tidak berisi baris kosong.
 	Protect	Lindungi
 	Protect Document	Lindungi Dokumen
 	Quick Access Toolbar	Bilah Alat Akses Cepat
@@ -1755,6 +1783,8 @@
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bukan angka.
 	Undo Actions	Batalkan Tindakan
 	Undo History	Riwayat Pembatalan
+	Someone else has typed in what this Undo would remove, so it wasn't undone.	Tindakan tidak diurungkan karena orang lain sudah mengetik di bagian yang akan terhapus.
+	Someone else has typed in what this Redo would remove, so it wasn't redone.	Tindakan tidak diulangi karena orang lain sudah mengetik di bagian yang akan terhapus.
 	Undo 1 Action	Batalkan 1 Tindakan
 	Undo {n} Actions	Batalkan {n} Tindakan
 	Start-up	Saat Mulai
@@ -2489,3 +2519,30 @@ template	Letter	Surat
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Afrika Selatan
+	Reconnecting to the other editors. Your changes are kept and sent once the connection is back.	Menyambung kembali ke editor lain. Perubahan Anda tetap tersimpan dan dikirim begitu koneksi pulih.
+	Reconnecting to the other editors. You can edit again in a moment.	Menyambung kembali ke editor lain. Anda dapat menyunting lagi sebentar lagi.
+	Too many changes are waiting to be sent to the other editors. A copy with them is ready to save; editing resumes once they are sent.	Terlalu banyak perubahan menunggu untuk dikirim ke editor lain. Salinan berisi perubahan itu siap disimpan; penyuntingan berlanjut setelah semuanya terkirim.
+	Some of your changes could not be shared with the other editors. A copy with them is ready to save.	Sebagian perubahan Anda tidak dapat dibagikan dengan editor lain. Salinan berisi perubahan itu siap disimpan.
+	Save a copy of your unshared changes	Simpan salinan perubahan Anda yang belum dibagikan
+	Downloaded a copy with your unshared changes as {name}.	Salinan berisi perubahan Anda yang belum dibagikan diunduh sebagai {name}.
+	Couldn't save the copy with your unshared changes: {error}. Try again.	Salinan berisi perubahan Anda yang belum dibagikan tidak dapat disimpan: {error}. Coba lagi.
+	this window cannot download files	jendela ini tidak dapat mengunduh berkas
+	Comments are off during live editing, so nothing was pasted.	Komentar nonaktif selama penyuntingan langsung, jadi tidak ada yang ditempel.
+	Headers, footers, notes and text boxes can't be changed while others are editing, so nothing was pasted.	Header, footer, catatan, dan kotak teks tidak dapat diubah saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
+	Pasted as text: pictures and tables can't be shared while others are editing.	Ditempel sebagai teks: gambar dan tabel tidak dapat dibagikan saat orang lain sedang menyunting.
+	Pasted without some formatting: it can't be shared while others are editing.	Ditempel tanpa sebagian format: format tersebut tidak dapat dibagikan saat orang lain sedang menyunting.
+	Pictures and other objects can't be cut while others are editing.	Gambar dan objek lain tidak dapat dipotong saat orang lain sedang menyunting.
+	Tables can't be changed while others are editing. Copy still works.	Tabel tidak dapat diubah saat orang lain sedang menyunting, tetapi masih dapat disalin.
+	The selection has a picture or other object, which can't be removed while others are editing, so nothing was pasted.	Seleksi berisi gambar atau objek lain yang tidak dapat dihapus saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
+	This paste can't be shared while others are editing, so nothing was pasted.	Hasil tempel ini tidak dapat dibagikan saat orang lain sedang menyunting, jadi tidak ada yang ditempel.
+	This paste option is off during live editing. Use Paste or Keep Text Only.	Opsi tempel ini nonaktif selama penyuntingan langsung. Gunakan Tempel atau Pertahankan Teks Saja.
+	Tracked changes are off during live editing, so nothing was pasted.	Perubahan terlacak tidak didukung selama penyuntingan langsung, jadi tidak ada yang ditempel.
+	Graphics acceleration is off in this browser, so editing may be slow.	Akselerasi grafis nonaktif di peramban ini, jadi pengeditan mungkin lambat.
+	Nothing was pasted: {items} can't be shared while others are editing.	Tidak ada yang ditempel: {items} tidak dapat dibagikan saat orang lain sedang menyunting.
+	Pasted as text: {items} can't be shared while others are editing.	Ditempel sebagai teks: {items} tidak dapat dibagikan saat orang lain sedang menyunting.
+	{list} and {last}	{list} dan {last}
+paste	pictures	gambar
+paste	tables	tabel
+paste	fields	medan
+paste	notes	catatan
+paste	some formatting	sebagian format
