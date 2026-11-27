@@ -8,6 +8,10 @@ Shared translations for the storytold Crafting Apps.
 The apps share a lot of strings. Keeping them here means each one is translated once, and every
 app picks it up. An app can still override a shared string, or add its own, in its own catalog.
 
+## Fork notes
+
+This fork adds Indonesian WordCraft texts for the hosted build: live co-editing, live paste, grammar checking and writing help.
+
 ## What's here
 
 | Path | What |
